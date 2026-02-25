@@ -8,16 +8,16 @@
       remote="github"
       revision="yaap" />
 
- <!-- Common device tree for sm6225 platform (your fork) -->
+ <!-- Common device tree for sm6375 platform (your fork) -->
   <project
-      path="device/motorola/sm6225-common"
+      path="device/motorola/sm6375-common"
       name="heethjain21/android_device_motorola_sm6375-common"
       remote="github"
       revision="lineage-23.2" />
 
    <!-- Kernel tree (your fork) -->
   <project
-      path="kernel/motorola/sm6225"
+      path="kernel/motorola/sm6375"
       name="shipukacapri/android_kernel_motorola_sm6375"
       remote="github"
       revision="lineage-23.2" />
