@@ -6,7 +6,7 @@
       path="device/motorola/rhodei"
       name="shipukacapri/android_device_motorola_rhodei"
       remote="github"
-      revision="yaap" />
+      revision="inf-qp2" />
 
  <!-- Common device tree for sm6375 platform (your fork) -->
   <project
@@ -38,10 +38,10 @@
   
 <!-- Motorola hardware (contains hardware/motorola/sepolicy/qti/SEPolicy.mk) -->
 <project
-    name="shipukacapri/android_hardware_motorola"
+    name="LineageOS/android_hardware_motorola"
     path="hardware/motorola"
     remote="github"
-    revision="edited-23.2" />
+    revision="lineage-23.2" />
 
 
 <!-- QCOM vendor SEPolicy (contains device/qcom/sepolicy_vndr/SEPolicy.mk) -->
