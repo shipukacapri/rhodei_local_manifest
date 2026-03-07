@@ -11,9 +11,9 @@
  <!-- Common device tree for sm6375 platform (your fork) -->
   <project
       path="device/motorola/sm6375-common"
-      name="heethjain21/android_device_motorola_sm6375-common"
+      name="shipukacapri/android_device_motorola_sm6375-common"
       remote="github"
-      revision="lineage-23.2" />
+      revision="dolby-23.2" />
 
    <!-- Kernel tree (your fork) -->
   <project
