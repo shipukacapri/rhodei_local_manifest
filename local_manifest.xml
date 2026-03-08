@@ -43,6 +43,13 @@
     remote="github"
     revision="lineage-23.2" />
 
+   <!-- dolby for moto -->
+  <project
+    name="Evolution-X-Devices/hardware_dolby"
+    path="hardware/dolby"
+    remote="github"
+    revision="bka" />
+
 
 <!-- QCOM vendor SEPolicy (contains device/qcom/sepolicy_vndr/SEPolicy.mk) -->
 
