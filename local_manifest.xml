@@ -6,14 +6,14 @@
       path="device/motorola/rhodei"
       name="shipukacapri/android_device_motorola_rhodei"
       remote="github"
-      revision="inf-qp2" />
+      revision="axion" />
 
  <!-- Common device tree for sm6375 platform (your fork) -->
   <project
       path="device/motorola/sm6375-common"
       name="shipukacapri/android_device_motorola_sm6375-common"
       remote="github"
-      revision="dolby-23.2" />
+      revision="luna-dolby" />
 
    <!-- Kernel tree (your fork) -->
   <project
@@ -43,13 +43,19 @@
     remote="github"
     revision="lineage-23.2" />
 
-   <!-- dolby for moto -->
+ <!-- dolby for moto -->
   <project
-    name="Evolution-X-Devices/hardware_dolby"
-    path="hardware/dolby"
+    name="JustMysticFalls/android_packages_apps_LunarisDolby"
+    path="packages/apps/LunarisDolby"
     remote="github"
-    revision="bka" />
+    revision="16" />
 
+  <!-- dolby for moto -->
+  <project
+    name="JustMysticFalls/proprietary_vendor_sony_dolby"
+    path="vendor/sony/dolby"
+    remote="github"
+    revision="16-LD" />
 
 <!-- QCOM vendor SEPolicy (contains device/qcom/sepolicy_vndr/SEPolicy.mk) -->
 
