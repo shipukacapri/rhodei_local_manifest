@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote name="github"
+        fetch="https://github.com/" />
+  
   <!-- Device tree for Motorola G62 India (your fork) -->
   <project
       path="device/motorola/rhodei"
       name="shipukacapri/android_device_motorola_rhodei"
       remote="github"
-      revision="inf-qp2" />
+      revision="voltage" />
 
  <!-- Common device tree for sm6375 platform (your fork) -->
   <project
       path="device/motorola/sm6375-common"
       name="shipukacapri/android_device_motorola_sm6375-common"
       remote="github"
-      revision="dolby-23.2" />
+      revision="voltage-dolby" />
 
    <!-- Kernel tree (your fork) -->
   <project
