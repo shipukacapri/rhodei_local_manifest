@@ -6,7 +6,7 @@
       path="device/motorola/rhodei"
       name="shipukacapri/android_device_motorola_rhodei"
       remote="github"
-      revision="inf-qp2" />
+      revision="inf-vanilla" />
 
  <!-- Common device tree for sm6375 platform (your fork) -->
   <project
