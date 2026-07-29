@@ -43,6 +43,13 @@
     remote="github"
     revision="lineage-24.0" />
 
+  <!-- nfc for fogos -->
+  <project
+      name="LineageOS/android_hardware_samsung_slsi_nfc"
+      path="hardware/samsung_slsi/nfc"
+      remote="github"
+      revision="lineage-23.2" />
+
  <!-- dolby for moto -->
   <project
     name="Evolution-X-Devices/hardware_dolby"
