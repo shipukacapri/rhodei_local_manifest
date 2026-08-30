@@ -32,9 +32,9 @@
    <!-- Common vendor blobs (your fork) -->
   <project
       path="vendor/motorola/sm6375-common"
-      name="shipukacapri/proprietary_vendor_motorola_sm6375-common"
+      name="TheMuppets/proprietary_vendor_motorola_sm6375-common"
       remote="github"
-      revision="android-17" />
+      revision="lineage-24.0" />
   
 <!-- Motorola hardware (contains hardware/motorola/sepolicy/qti/SEPolicy.mk) -->
 <project
@@ -55,6 +55,6 @@
     name="Evolution-X-Devices/hardware_dolby"
     path="hardware/dolby"
     remote="github"
-    revision="bka" />
+    revision="cnb" />
 
 </manifest>
