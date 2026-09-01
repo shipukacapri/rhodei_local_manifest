@@ -6,14 +6,14 @@
       path="device/motorola/rhodei"
       name="shipukacapri/android_device_motorola_rhodei"
       remote="github"
-      revision="rising-17" />
+      revision="voltage-17" />
 
  <!-- Common device tree for sm6375 platform (your fork) -->
   <project
       path="device/motorola/sm6375-common"
       name="shipukacapri/android_device_motorola_sm6375-common"
       remote="github"
-      revision="erofs-a17" />
+      revision="volt-17" />
 
    <!-- Kernel tree (your fork) -->
   <project
