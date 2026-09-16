@@ -17,7 +17,7 @@
       path="device/motorola/sm6375-common"
       name="shipukacapri/android_device_motorola_sm6375-common"
       remote="github"
-      revision="erofs" />
+      revision="voltage" />
 
    <!-- Kernel tree (your fork) -->
   <project
