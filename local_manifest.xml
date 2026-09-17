@@ -11,9 +11,9 @@
  <!-- Common device tree for sm6375 platform (your fork) -->
   <project
       path="device/motorola/sm6375-common"
-      name="shipukacapri/android_device_motorola_sm6375-common"
+      name="shipsingh2002/android_device_motorola_sm6375-common"
       remote="github"
-      revision="dolby" />
+      revision="dolby-23.2" />
 
    <!-- Kernel tree (your fork) -->
   <project
@@ -34,14 +34,14 @@
       path="vendor/motorola/sm6375-common"
       name="TheMuppets/proprietary_vendor_motorola_sm6375-common"
       remote="github"
-      revision="lineage-24.0" />
+      revision="lineage-23.2" />
   
 <!-- Motorola hardware (contains hardware/motorola/sepolicy/qti/SEPolicy.mk) -->
 <project
     name="LineageOS/android_hardware_motorola"
     path="hardware/motorola"
     remote="github"
-    revision="lineage-24.0" />
+    revision="lineage-23.2" />
 
   <!-- nfc for fogos -->
   <project
@@ -55,6 +55,6 @@
     name="Evolution-X-Devices/hardware_dolby"
     path="hardware/dolby"
     remote="github"
-    revision="cnb" />
+    revision="bka" />
 
 </manifest>
