@@ -20,7 +20,7 @@
       path="kernel/motorola/sm6375"
       name="shipukacapri/android_kernel_motorola_sm6375"
       remote="github"
-      revision="lineage-23.2" />
+      revision="rhodei" />
   
   <!-- Vendor blobs for rhodei (your fork) -->
   <project
