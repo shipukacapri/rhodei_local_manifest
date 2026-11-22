@@ -8,7 +8,7 @@
   <!-- Device tree for Motorola G62 India (your fork) -->
   <project
       path="device/motorola/rhodei"
-      name="D-Dileep/android_device_motorola_rhodei"
+      name="D-Dileeppal/android_device_motorola_rhodei"
       remote="github"
       revision="Rising-17" />
 
